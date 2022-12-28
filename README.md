@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rafealfemi
+- 👋 Hi, I’m Femi Olayemi
 - 👀 I’m interested in Data Analysis
 - 💞️ I’m looking to collaborate on Data Analysis
 - 📫 How to reach me olayemifemirafeal@yahoo.com
